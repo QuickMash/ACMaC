@@ -1,2 +1,4 @@
 Flask
 ollama
+SpeechRecognition
+PyAudio

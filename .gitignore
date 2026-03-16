@@ -47,3 +47,6 @@ release/
 # IDE files
 .vscode/
 .idea/
+
+# User data
+history.json
